@@ -1,0 +1,34 @@
+<!--
+  @description       : 
+  @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+  @group             : 
+  @last modified on  : 02-13-2022
+  @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+-->
+<template>
+    <lightning-card>
+        <h3 slot="title">
+            <lightning-icon icon-name="utility:connected_apps" size="small"></lightning-icon>
+            Product Informations 
+        </h3>
+        <div slot="footer">
+
+        </div>
+        <div class="slds-p-around_medium lgc-bg">
+            <!-- <lightning-button label="Get My IP" onclick={getIP}></lightning-button> -->
+        </div>
+
+        <div class="slds-p-around_medium lgc-bg">            
+            <span>
+            Title :  {data.title} <br></span>
+            <span> Price:  {data.price}  <br></span>
+            <span> Description:  {data.description} <br></span>
+            <span> Category  {data.category} <br></span>
+            
+            
+        </div>   
+        <div class="slds-m-around_medium">
+            <img src={data.image}>
+        </div>
+    </lightning-card>
+</template>
