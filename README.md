@@ -3,7 +3,12 @@
 ## Component to build the LWC
 - LWC components
 - Poduct API 
-- Apex Method to pass the knowledge attribute to get the api
+- Apex Method to pass the knowledge attribute to get the data api
+
+### LWC  - https://github.com/chandanrjit/productInfo-lwc-component/tree/main/force-app/main/default/lwc/prodinfo
+
+![image](https://user-images.githubusercontent.com/10242233/153776078-cc6c9c8f-f7ba-4e52-9f6b-606f0f677bde.png)
+
 
 ## How Do You Plan to Deploy Your Changes?
 
