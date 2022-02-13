@@ -1,6 +1,9 @@
-# Salesforce DX Project: Next Steps
+# Lighting Web Component - Product Information 
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Component to build the LWC
+- LWC components
+- Poduct API 
+- Apex Method to pass the knowledge attribute to get the api
 
 ## How Do You Plan to Deploy Your Changes?
 
