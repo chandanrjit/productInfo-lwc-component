@@ -5,6 +5,9 @@
 - Poduct API 
 - Apex Method to pass the knowledge attribute to get the api
 
+![image](https://user-images.githubusercontent.com/10242233/153776078-cc6c9c8f-f7ba-4e52-9f6b-606f0f677bde.png)
+
+
 ## How Do You Plan to Deploy Your Changes?
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
