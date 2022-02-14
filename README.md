@@ -3,7 +3,7 @@
 ## Component to build the LWC
 - LWC components
 - Poduct API 
-- Apex Method to pass the knowledge attribute to get the data api
+- Apex :  To pass the knowledge attribute to get the data api
 
 ### LWC  - https://github.com/chandanrjit/productInfo-lwc-component/tree/main/force-app/main/default/lwc/prodinfo
 
